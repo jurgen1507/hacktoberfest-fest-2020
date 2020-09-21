@@ -27,6 +27,7 @@ Ben je geintreseerd om mee te doen? Fork/Clone dan deze repository en zet je naa
 - [Joost Lekkerkerker](https://github.com/joostlek)
 - [Martijn Noordermeer](https://github.com/NorthLake)
 - [Morris Waaijer](https://github.com/kaasbroodju)
+- [Jurgen Braan](https://github.com/jurgen1507)
 
 
 # Readibles (edibles but for nerds)
